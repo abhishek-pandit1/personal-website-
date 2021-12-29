@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+
+body
+{
+    background-color: black;
+}
+.navbar-brand
+{
+    font-family: 'Pushster', cursive;
+}
+
+.card img 
+{
+    width: 70px;
+    height: 70px;
+    margin-left: 82px;
+    background-color: black;
+}
+.card-title
+{
+    color: white;
+    font-family: 'Lobster', cursive;
+font-family: 'Source Code Pro', monospace;
+}
+
+
+.card-body
+{
+    background-color: rgb(0, 0, 0);
+}
+
+.card-body:hover
+{
+    border: 1px solid yellow !important;
+}
+
+.heading 
+{
+    margin:56px;
+    color: yellow;
+    /* font-family: 'Lobster', cursive; */
+
+}
+.subheading
+{
+    margin-top: -30px;
+    margin-left: 63px;
+    color: skyblue;
+    font-size: 15px;
+    /* text-decoration: underline; */
+    font-family: 'Lobster', cursive;
+}
+.card-text
+{
+    color: yellow;
+    font-family: 'Lobster', cursive;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.experience
+{
+    color: white;
+    margin-left: 43px;
+    margin-bottom: 29px;
+}
+hr {width: 300px;margin-left: auto;margin-right: auto;height: 100px;background-color:#666; opacity: 0.5;}
+
+h4
+{
+    height: 21px;
+    font-size: 18px;
+    margin-top: 3px;
+}
+
+.insta-img  img 
+
+{
+    width: 50px;
+    margin-top: 14px;
+    margin-left: 38%;
+    height: 50px;
+    margin-bottom: 18px;
+}
+
+#insta-name 
+{
+    margin-left: 60px;
+    color: white;
+}
